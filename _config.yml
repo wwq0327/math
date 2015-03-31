@@ -1,20 +1,20 @@
-title:            Balzac
+title:            数学工作室（初中）
 tagline:          A beautiful theme.
-description:      Describe your website.
-canonical: http://jekyll.gtat.me
+description:      初中数学工作室.
+canonical: http://math.wanqingwong.com
 
 # Owner/author information
 owner:
   name:           Cole Townsend
   avatar:         avatar.png
   bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
+  email:          wwq0327@gmail.com
+  twitter:        wwq0327
+  github:         http://github.com/wwq0327
   instagram:      ctrunsthis
   dribbble:       coletownsend
   disqus:         balzac
-  location:       "Buffalo, NY"
+  location:       "Sichuang, China"
   # Plug in your disqus shortname!
 
 tools:
@@ -34,7 +34,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    China/Sichuang
 future:      true
 highlighter: pygments
 markdown:    kramdown
